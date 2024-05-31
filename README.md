@@ -1,8 +1,5 @@
 <<<<<<< HEAD
 # quiz_app
 
-A new Flutter project.
-=======
-# Quiz_app
-this is quiz app 
->>>>>>> 2324441758310121ee3d099fc0d1bdf0f6c3b5f4
+The Quiz App is an interactive application designed to provide a fun and engaging way to test and improve knowledge on various topics. Built using Flutter, this app offers a smooth and responsive user experience across multiple platforms. Users can take quizzes from a curated list and receive their scores at the end.
+
